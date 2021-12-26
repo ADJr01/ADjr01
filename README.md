@@ -1,6 +1,5 @@
+![A passionate frontend and backend developer from Bangladesh](https://i.ibb.co/dpknHjQ/M-Accounting-Inc.png)
 ### Hi there 👋, I am Rahat Adnan
-![A passionate frontend and backend developer from Bangladesh](https://i.ibb.co/dpknHjQ/M-Accounting-Inc.png)![M Accounting Inc](https://user-images.githubusercontent.com/22961713/147400996-cb386cbc-4444-4314-a41e-9fac43cfc6fd.png)
-
 #### A passionate frontend and backend developer from Bangladesh
 
 I am currently studying in computer science in IUBAT.I am passionate about Computer Science,Programming and web Development. I Love to teach people technologies like **javascript**,**React Js** etc. I am currently working on a social app Adda.  
