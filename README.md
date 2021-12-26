@@ -1,19 +1,30 @@
-### Hi there 👋, I am Rahat Adnan
-#### A passionate frontend and backend developer from Bangladesh
-![A passionate frontend and backend developer from Bangladesh](https://i.ibb.co/dpknHjQ/M-Accounting-Inc.png)
+<h1 align="center">Hi 👋, I'm Rahat Adnan</h1>
+<h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
 
-I am currently studying in computer science in IUBAT.I am passionate about Computer Science,Programming and web Development. I Love to teach people technologies like **javascript**,**React Js** etc. I am currently working on a social app Adda.  
+- 🔭 I’m currently working on [Adda](https://github.com/ADJr01/Adda_App)
 
-**My  Javascript Intemediate Certificate:** *https://www.hackerrank.com/certificates/4c21c6ed0215*
+- 🌱 I’m currently learning **Next Js**
 
-Skills: **Javascript** / **REACT**  / **HTML** / **CSS**
+- 👨‍💻 All of my projects are available at [https://github.com/ADJr01](https://github.com/ADJr01)
 
-- 🔭 I’m currently working on this page.https://github.com/ADJr01/Adda_App 
-- 🌱 I’m currently learning Next Js 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about **Javascript** 
-- 📫 How to reach me: sthep90@gmail.com 
+- 📝 I regularly write articles on [Javascript](Javascript)
 
+- 💬 Ask me about **JavaScript**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ADJr01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/adjr01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/AD.Jrx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCT2VdFhZHWi7kEXFhXWPByw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](AD_Jr)  
+- 📫 How to reach me **sthep90@gmail.com**
 
+- ⚡ Fun fact **I think I am addicted to coding**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/adjr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adjr01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahat-adnan-04b68515a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahat-adnan-04b68515a" height="30" width="40" /></a>
+<a href="https://fb.com/ad.jrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ad.jrx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uct2vdfhzhwi7kexfhxwpbyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct2vdfhzhwi7kexfhxwpbyw" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ad_jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ad_jr" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adjr01&show_icons=true&locale=en&layout=compact" alt="adjr01" /></p>
