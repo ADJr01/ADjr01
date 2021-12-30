@@ -14,6 +14,10 @@
 - 📫 How to reach me **sthep90@gmail.com**
 
 - ⚡ Fun fact **I think I am addicted to coding**
+- 
+![js inermediate Certificate By HackerRank: https://www.hackerrank.com/certificates/4c21c6ed0215 ](https://user-images.githubusercontent.com/22961713/147722991-41606d17-8969-4885-b90b-36c033e869aa.png)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
