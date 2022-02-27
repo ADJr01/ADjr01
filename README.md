@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Adda](https://github.com/ADJr01/Adda_App)
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Ember Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADJr01](https://github.com/ADJr01)
 
