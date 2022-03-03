@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahat Adnan</h1>
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Adda](https://github.com/ADJr01/Adda_App)
+- 🔭 I’m currently working in [Algorithm Generatiopn Limited](https://www.linkedin.com/company/algorithmgeneration/?originalSubdomain=bd)
 
 - 🌱 I’m currently learning **Ember Js**
 
