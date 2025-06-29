@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [Algorithm Generation Limited](https://www.linkedin.com/company/algorithmgeneration/?originalSubdomain=bd)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently improving **C++** skills.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADJr01](https://github.com/ADJr01)
 
