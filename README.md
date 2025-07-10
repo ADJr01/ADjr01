@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahat Adnan</h1>
+<h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working in [Algorithm Generation Limited](https://www.linkedin.com/company/algorithmgeneration/?originalSubdomain=bd)
