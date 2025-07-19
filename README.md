@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently improving C++ skills.<br><br>👨‍💻 All of my projects are available at https://github.com/ADJr01<br><br>📝 I regularly read articles on Vulkan<br><br>📫 How to reach me: sthep90@gmail.com<br><br>⚡ Fun fact I think I am addicted to coding
+🌱 I’m currently improving Cg skills.<br><br>👨‍💻 All of my projects are available at https://github.com/ADJr01<br><br>📝 I regularly read articles on Vulkan<br><br>📫 How to reach me: sthep90@gmail.com<br><br>⚡ Fun fact I think I am addicted to coding
 
 
 ## 🌐 Socials:
