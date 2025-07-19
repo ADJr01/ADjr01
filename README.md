@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently improving Cg skills.<br><br>👨‍💻 All of my projects are available at https://github.com/ADJr01<br><br>📝 I regularly read articles on Vulkan<br><br>📫 How to reach me: sthep90@gmail.com<br><br>⚡ Fun fact I think I am addicted to coding
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adjr01/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SthephenAdnan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sthep90@gmail.com) 
 
